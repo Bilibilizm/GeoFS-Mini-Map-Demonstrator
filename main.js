@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name         GeoFS mini map
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  nothing
+// @author      bilibili蜂蜜水的冬日航线123
+// @match       http://*/geofs.php*
+// @match       https://*/geofs.php*
+// @grant        none
+
+
 // ==/UserScript==
 (function() {
     'use strict';
